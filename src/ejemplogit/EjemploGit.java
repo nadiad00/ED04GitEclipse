@@ -11,6 +11,6 @@ public class EjemploGit {
 	 */
 	public static void main (String[] args) {
 		//TODO Auto-generated method stub
-		System.ou.println("ejemplo Git en Eclipse");
+		System.out.println("ejemplo Git en Eclipse");
 	}
 }
